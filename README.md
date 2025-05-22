@@ -19,3 +19,7 @@ Mentor : NEELA SANTOSH
 ##Interactive swagger UI to test predictions
 ##The dataset includes various features like: Make, Type, GearType, AirBag, ABS, BootSpace, Engine, FuelCapacity, Mileage.
 ##Price is the target variable
+
+# OutPut
+
+![Image](https://github.com/user-attachments/assets/6b46d91d-fb18-4778-8731-0ba1b92d4850)
